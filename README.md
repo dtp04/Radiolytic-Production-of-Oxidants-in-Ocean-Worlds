@@ -1,6 +1,6 @@
 # Endogenous-Radiolytic-Production-of-Oxygen-and-Its-Potential-to-Support-Habitable-Environments-in-Ocean-Worlds
 
-This repository includes the report and slide from the group project I completed with two other students at USTH.
+This repository contains the report and slides from a project I completed at USTH for a course. I also presented this work at the 2025 SAGI Astrophysics Workshop.
 
 **Objective**: Investigate the in-situ production of molecular oxygen and hydrogen in Europa’s subsurface ocean through gamma emission of radioactive potassium decay.
 
